@@ -2,4 +2,4 @@
 Python simple wrapper for Dropbox API
 
 ## Testing
-Run ´´´nosetests -v´´´
+Run ```nosetests -v```
